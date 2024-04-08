@@ -53,10 +53,15 @@
 
 
 ## Output:
+![OUTPUT](<IMAGE EMPD.1.png>)
+![OUTPUT](<OUTPUT EMPD 2.1.png>)
+![OUTPUT](<OUTPUT EMPD 2.2.png>)
 
 
-### Name:
-### Register Number: 
+### Name:MARELLA HASINI
+### Register Number: 212223240083
 
 ## RESULT:
+
+
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
